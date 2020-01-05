@@ -23,4 +23,9 @@ Embeddings aren't only used for words of course. You can use them for any model 
 The dataset file used in this project is too big to be uploaded . So, the file can be downloaded [here](http://mattmahoney.net/dc/text8.zip)
 
 
-![result](assets/result.png)
+## Conclusion
+
+As we can see from the final image as the word with similar meanings are placed with respect to each other and the one different one are placed farther.
+
+
+![result](assets/result.PNG)
